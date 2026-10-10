@@ -2,7 +2,7 @@
 
 [Open the presentation](https://raphacoh.github.io/haggl-presentation/)
 
-The approved 13-slide presentation is published with GitHub Pages.
+The approved 12-slide presentation is published with GitHub Pages.
 
 - Use arrow keys or Index to navigate.
 - Use Present for fullscreen and Notes for context and sources.
